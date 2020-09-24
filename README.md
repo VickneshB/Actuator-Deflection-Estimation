@@ -19,7 +19,7 @@ This is to determine the deflection of my colleague's Soft Robotics' specimen wh
 	
 	For a custom Ouput Video Name,
 	```
-	$ python3 main.py {Input Video Name} -0 {Output Video Name}
+	$ python3 main.py {Input Video Name} -o {Output Video Name}
 	```
 	
 	For help, 
