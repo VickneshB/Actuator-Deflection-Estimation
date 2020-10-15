@@ -1,5 +1,5 @@
 # Actuator-Deflection-Estimation
-This is to determine the deflection of my colleague's Soft Robotics' specimen when heated
+This is to determine the deflection of my colleague's composite specimen
 
 1.  Create an virtual environment using
 	```
